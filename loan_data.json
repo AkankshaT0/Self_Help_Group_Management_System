@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Akanksha",
+        "group": "selfhelp",
+        "amount": 20000.0,
+        "purpose": "personal",
+        "duration": 4,
+        "interest": 2.0,
+        "status": "Rejected"
+    }
+]
